@@ -3,7 +3,8 @@ package bootstrap
 import (
 	"log"
 	"os"
-    "github.com/dgomezlikeyoube/ms_domain/domain"
+
+	"github.com/dgomezlikeyoube/ms_domain/domain"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
